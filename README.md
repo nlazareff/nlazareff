@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1000" height="400" alt="nlazareff_github" src="https://github.com/user-attachments/assets/dc0a1103-739c-4dff-8b44-2d8f128e918e" />
+<img src="nlazareff_github.jpg" alt="GitHub banner" width="1000">
 
 ## Привет! 👋 Меня зовут Наталья. 
 **Я начинающий инженер по автоматизированному тестированию.** 
